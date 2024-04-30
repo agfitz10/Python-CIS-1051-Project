@@ -11,7 +11,10 @@ I did research on how to create characters, scenes, scripts, and GB Studio in ge
 Difficulties:
 
 - Bugs in code: I had to restart some of the process because it is out of my wheelhouse to debug a software program
+- The cursor for the wire game kept disappearing and flickering.
 - When I first started coding, the wire game was a mess, it would not rotate when I wanted it to.
+- I had to keep adjusting art from photoshop to the game, making sure it was the right pixilated size. This happened like 10 times.
+- In the end, something I did not foresee was the messed up background art when the game starts, like the image crashed, however I used this to my advantage as it aligned with the story of my game, and I liked the aesthetic.
 
 Solution came from trial and error.
 
